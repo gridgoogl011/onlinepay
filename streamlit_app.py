@@ -11,7 +11,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('Claire Deniau')
 
-st.info('Full Time Writter, I'm a team player who is eager to collaborate and offer my creative input. I'm dedicated to creating stories that will captivate and inspire my readers.')
+st.info('Full Time Writter, I am a team player who is eager to collaborate and offer my creative input. I'm dedicated to creating stories that will captivate and inspire my readers.')
 
 icon_size = 20
 
