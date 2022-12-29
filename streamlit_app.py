@@ -9,9 +9,9 @@ st.write("[![Star])")
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
 
-st.header('Claire Deniau, Full Time Writter')
+st.header('Claire Deniau, 'Affiliate Marketer')
 
-st.info('Developer Advocate, Content Creator and ex-Professor with an interest in Data Science and Bioinformatics')
+st.info('Full Time Writter,  I'm a team player who is eager to collaborate and offer my creative input. I'm dedicated to creating stories that will captivate and inspire my readers.')
 
 icon_size = 20
 
